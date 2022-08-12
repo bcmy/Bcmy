@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m An Zhihe
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m bcmy
 
 ![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anzhihe.anzhihe&left_color=gray&right_color=blue)
@@ -7,7 +7,7 @@
 <tr>
 <td width="58%">
   
-- 🤖 I’m currently a SRE working in Beijing, China.
+- 🤖 I’m currently studying in XDU, China.
 - 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
 - 💬 Ask me about Anything you want~
@@ -45,11 +45,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
-- [2022年苹果教育优惠 Mac全系购买指南渠道 - 2022-08-11](https://chegva.com/5415.html)
-- [css实现a标签置灰不可点击 - 2022-08-10](https://chegva.com/5377.html)
-- [一些免费的学习资料库，在线考试、题库平台，题库下载分享 - 2022-08-07](https://chegva.com/5409.html)
-- [暗黑破坏神系列剧情全集 - 2022-08-06](https://chegva.com/5408.html)
-- [薄命君王，千古词帝 —— 李煜 - 2022-08-04](https://chegva.com/5230.html)
+- [123 - 2022-08-11](https://chegvab.com/5415.html)
+- [666 - 2022-08-10](https://chegvab.com/5377.html)
+- [123 - 2022-08-07](https://chegvab.com/5409.html)
+- [23133 - 2022-08-06](https://chegvab.com/5408.html)
+- [2131232 - 2022-08-04](https://chegvab.com/5230.html)
 
 </td>
 </tr>
