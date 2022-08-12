@@ -8,8 +8,8 @@
 <td width="58%">
   
 - 🤖 I’m currently studying in XDU, China.
-- 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
-- ✍️ [MyBlog](https://chegva.com)
+- 👨‍💻 I’m currently learning FPGA，Python，Deep Learning，C，etc...
+- ✍️ [MyBlog](https://bcmy.github.io/)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:anzhihe@foxmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
