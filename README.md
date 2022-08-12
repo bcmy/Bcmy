@@ -9,10 +9,10 @@
   
 - 🤖 I’m currently studying in XDU, China.
 - 👨‍💻 I’m currently learning FPGA，Python，Deep Learning，C，etc...
-- ✍️ [MyBlog](https://bcmy.github.io/)
+- ✍️ [MyBlog](https://bcmy.vercel.app/)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:anzhihe@foxmail.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
+- 📫 Reach me: [email](mailto:bingchengmengyv@foxmail.com)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/bcmy?label=follow%20me&style=social)](https://github.com/bcmy/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
 **「Stay hungry，Stay foolish.」** ❤️
