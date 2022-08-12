@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m bcmy ![visitors](https://visitor-badge.glitch.me/badge?page_id=bcmy.bcmy&left_color=gray&right_color=blue)
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m bcmy  ![visitors](https://visitor-badge.glitch.me/badge?page_id=bcmy.bcmy&left_color=gray&right_color=blue)
 
 <table>
 <tr>
@@ -40,7 +40,7 @@
   
   ![Bcmy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcmy&layout=compact&hide_border=true&langs_count=10)
 
-#### ✏️ [Recent Blog](https://chegva.com)
+#### ✏️ [Recent Blog](https://chegvas.com)
 
 - [123 - 2022-08-11](https://chegvab.com/5415.html)
 - [666 - 2022-08-10](https://chegvab.com/5377.html)
