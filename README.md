@@ -8,7 +8,7 @@
 <td width="58%">
   
 - 🤖 I’m currently studying in XDU, China.
-- 👨‍💻 I’m currently learning FPGA，Python，Deep Learning，C，etc...
+- 👨‍💻 I’m currently learning FPGA，Python[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)，Deep Learning，C，etc...
 - ✍️ [MyBlog](https://bcmy.vercel.app/)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:bingchengmengyv@foxmail.com)
