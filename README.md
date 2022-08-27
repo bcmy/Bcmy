@@ -5,49 +5,26 @@
 <td width="58%">
   
 - 🤖 I’m currently studying in XDU, China.
-- 👨‍💻 I’m currently learning FPGA，Python[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)，Deep Learning，C，etc...
+- 👨‍💻 I’m currently learning FPGA，Deep Learning，C，etc...
 - ✍️ [MyBlog](https://bcmy.vercel.app/)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:bingchengmengyv@foxmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/bcmy?label=follow%20me&style=social)](https://github.com/bcmy/)
-- 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
 **「Stay hungry，Stay foolish.」** ❤️
 
+ ✏️ [Recent Blog](https://bcmy.vercel.app/)
+
+- [简易函数信号发生器的设计 - 2021-02-07](https://bcmy.vercel.app/posts/md1289.html)
+
+
 </td>
 <td width="42%">
-<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="280">
-</td>
-</tr>
-</table>
 
-🏆 **my github stats:**
-
-<table>
-<tr>
-<td valign="top"  width="58%">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=bcmy)
-  
-  <br>
-
-#### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-
-</td>
-<td valign="top"  width="42%">
-  
-  ![Bcmy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcmy&layout=compact&hide_border=true&langs_count=10)
-
-#### ✏️ [Recent Blog](https://chegvas.com)
-
-- [123 - 2022-08-11](https://chegvab.com/5415.html)
-- [666 - 2022-08-10](https://chegvab.com/5377.html)
-- [123 - 2022-08-07](https://chegvab.com/5409.html)
-- [23133 - 2022-08-06](https://chegvab.com/5408.html)
-- [2131232 - 2022-08-04](https://chegvab.com/5230.html)
+ ![](https://github-readme-stats.vercel.app/api?username=bcmy)
+ ![Bcmy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcmy&layout=compact&hide_border=true&langs_count=10)
 
 </td>
 </tr>
 </table>
+
