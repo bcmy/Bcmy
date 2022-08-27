@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="50%">
   
 - 🤖 I’m currently studying in XDU, China.
 - 👨‍💻 I’m currently learning FPGA，Deep Learning，C，etc...
@@ -19,7 +19,7 @@
 
 
 </td>
-<td width="42%">
+<td width="50%">
 
  ![](https://github-readme-stats.vercel.app/api?username=bcmy)
  ![Bcmy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcmy&layout=compact&hide_border=true&langs_count=10)
