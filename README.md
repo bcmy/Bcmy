@@ -13,7 +13,7 @@
 
 **「Stay hungry，Stay foolish.」** ❤️
 
- ✏️ [Recent Blog](https://bcmy.vercel.app/)
+ ✏️ [Recent Blog](https://bcmy.github.io/)
 
 - [简易函数信号发生器的设计 - 2021-02-07](https://bcmy.github.io/posts/md1289.html)
 
