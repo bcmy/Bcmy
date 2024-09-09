@@ -6,16 +6,16 @@
   
 - 🤖 I’m currently studying in XDU, China.
 - 👨‍💻 I’m currently learning FPGA，Deep Learning，C，etc...
-- ✍️ [MyBlog](https://bcmy.vercel.app/)
+- ✍️ [MyBlog](https://bcmy.github.io/)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:bingchengmengyv@foxmail.com)
+- 📫 Reach me: [email](mailto:eelhs@foxmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/bcmy?label=follow%20me&style=social)](https://github.com/bcmy/)
 
 **「Stay hungry，Stay foolish.」** ❤️
 
  ✏️ [Recent Blog](https://bcmy.vercel.app/)
 
-- [简易函数信号发生器的设计 - 2021-02-07](https://bcmy.vercel.app/posts/md1289.html)
+- [简易函数信号发生器的设计 - 2021-02-07](https://bcmy.github.io/posts/md1289.html)
 
 
 </td>
